@@ -58,3 +58,6 @@ stringWidth('\u001B[1m古\u001B[22m');
 
 </div> -->
 
+## License
+
+<script src="https://gist.github.com/GobindaSaha/4809396a4606c8ece7a9a6a2230a0fe8.js"></script>
