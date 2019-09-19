@@ -28,7 +28,7 @@
     "chai": "^4.2.0",
     "magic-string": "^0.25.3",
     "mocha": "^6.2.0",
-    "typescript": "^3.6.2"
+    "typescript": "^3.6.3"
   },
   "dependencies": {
     "@types/node": "^12.7.5"
