@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gobindasaha@bitbucket.org/gobindasaha/stringmanipulator.git"
+    "url": "git+https://github.com/GobindaSaha/stringmanipulator.git"
   },
   "keywords": [
     "typescript",
@@ -21,7 +21,7 @@
   ],
   "author": "Gobinda Saha",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/gobindasaha/stringmanipulator#readme",
+  "homepage": "https://github.com/GobindaSaha/stringmanipulator#readme",
   "devDependencies": {
     "adjectives": "^1.0.2",
     "animals": "0.0.3",
