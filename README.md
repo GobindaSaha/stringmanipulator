@@ -1,2 +1,2 @@
-# stringmanipulator
+# string-manipulation
 
