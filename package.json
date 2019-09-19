@@ -20,7 +20,7 @@
     "angular 6"
   ],
   "author": "Gobinda Saha",
-  "license": "ISC",
+  "license": "MIT",
   "homepage": "https://github.com/GobindaSaha/stringmanipulator#readme",
   "devDependencies": {
     "adjectives": "^1.0.2",
