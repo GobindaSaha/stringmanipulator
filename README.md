@@ -4,7 +4,7 @@
 
 Useful when you don't want to mess up with a bunch of small functions that can help you during the string related manipulation.Easy to use just call the functions with parameters(sometime not needed) from the below and get the desired result.
 
-It is also handy when you have some numbers to be calculated and also will help you to generate [human_readable_random_number].
+It is also handy when you have some numbers to be calculated and also will help you to generate <span style='font-weight:bold;color:red;'>human_readable_random_number</span>.
 
 ## Usable Platforms
 ```
