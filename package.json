@@ -1,0 +1,36 @@
+{
+  "name": "stringmanipulator",
+  "version": "1.0.0",
+  "description": "A plugin for string as well as number manipulation. Use the method and pass the value to it to get the desired value.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "mocha --reporter spec",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gobindasaha@bitbucket.org/gobindasaha/stringmanipulator.git"
+  },
+  "keywords": [
+    "typescript",
+    "npm",
+    "string manupulator",
+    "number manipulator",
+    "angular 6"
+  ],
+  "author": "Gobinda Saha",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/gobindasaha/stringmanipulator#readme",
+  "devDependencies": {
+    "adjectives": "^1.0.2",
+    "animals": "0.0.3",
+    "chai": "^4.2.0",
+    "magic-string": "^0.25.3",
+    "mocha": "^6.2.0",
+    "typescript": "^3.6.2"
+  },
+  "dependencies": {
+    "@types/node": "^12.7.5"
+  }
+}
