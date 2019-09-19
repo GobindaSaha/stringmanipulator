@@ -60,4 +60,5 @@ stringWidth('\u001B[1m古\u001B[22m');
 
 ## License
 
-MIT © Gobinda [License](LICENSE)
+MIT © Gobinda 
+[License](LICENSE)
