@@ -1,5 +1,5 @@
 {
-  "name": "string-manipulator",
+  "name": "string-manipulation",
   "version": "1.0.0",
   "description": "A plugin for string as well as number manipulation. Use the method and pass the value to it to get the desired value.",
   "main": "dist/index.js",
