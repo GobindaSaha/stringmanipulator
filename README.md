@@ -60,4 +60,4 @@ stringWidth('\u001B[1m古\u001B[22m');
 
 ## License
 
-[a relative link](LICENSE)
+MIT © Gobinda [License](LICENSE)
