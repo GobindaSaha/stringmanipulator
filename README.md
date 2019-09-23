@@ -21,7 +21,9 @@ $ npm i string-manipulation
 ## Usage
 
 In your ts file include the package as -<br />
-```import * as str  from 'string-manipulation';```
+```js
+import * as str  from 'string-manipulation';
+```
 
 After importing the package from node_modules use 'str' attribute as an instance of the module. Like -
 
