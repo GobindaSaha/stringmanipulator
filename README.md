@@ -20,43 +20,31 @@ $ npm i string-manipulation
 
 ## Usage
 
-<!-- ```js
-const stringWidth = require('string-width'); 
+In your ts file include the package as -
+```import * as str  from 'string-manipulation';```
 
-stringWidth('a'); 
-//=> 1
+After importing the package from node_modules use 'str' attribute as an instance of the module. Like -
 
-stringWidth('古'); 
-//=> 2
+```js 
+str.lengthStr('hello'); //5
+str.moveStr('123456789', 1, 4, 7); //156723489
+str.sliceStr('Lorem Ipsum', 0, 5); //Lorem
+str.trimStr('mynameisanthony', 'y'); //mynameisanthon
+str.replaceStr('Hi I am Rajat', 'Rajat', 'Gobinda'); //Hi I am Gobinda
 
-stringWidth('\u001B[1m古\u001B[22m'); 
-//=> 2
-``` -->
+str.returnChar(66); //B
+str.wordContainStr('No pain, no gain', 'pain'); //true
+str.indexOfStr('Victory', 'i'); //1
+str.toLowerCaseStr('Victory'); //victory
 
-<!-- ## Related
+str.randomReadableStr(); //it will generate random string at a time
 
-* [string-width-cli](https://github.com/sindresorhus/string-width-cli) - CLI for this module
-* [string-length](https://github.com/sindresorhus/string-length) - Get the real length of a string
-* [widest-line](https://github.com/sindresorhus/widest-line) - Get the visual width of the widest line in a string -->
+```
 
-<!-- 
----
+## Methods
 
-<div align="center">
 
-	<b>
 
-		<a href="https://tidelift.com/subscription/pkg/npm-string-width?utm_source=npm-string-width&utm_medium=referral&utm_campaign=readme">Get professional support for this package with a Tidelift subscription</a>
-
-	</b>
-	<br>
-	<sub>
-
-		Tidelift helps make open source sustainable for maintainers while giving companies<br>assurances about security, maintenance, and licensing for their dependencies.
-
-	</sub>
-
-</div> -->
 
 ## License
 
