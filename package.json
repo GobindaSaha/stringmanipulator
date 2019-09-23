@@ -1,6 +1,6 @@
 {
   "name": "string-manipulation",
-  "version": "1.2.8",
+  "version": "1.2.9",
   "description": "A plugin for string as well as number manipulation. Use the method and pass the value to it to get the desired value.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
