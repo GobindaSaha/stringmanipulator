@@ -27,7 +27,7 @@
     "animals": "0.0.3",
     "chai": "^4.2.0",
     "magic-string": "^0.25.3",
-    "mocha": "^6.2.0",
+    "mocha": "^10.2.0",
     "typescript": "^3.6.3"
   },
   "dependencies": {
